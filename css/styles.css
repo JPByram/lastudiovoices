@@ -272,6 +272,7 @@ h1 em, h2 em { font-style: italic; color: var(--brass-light); }
 }
 
 .work-group + .work-group { margin-top: clamp(80px, 9vw, 120px); }
+.work--singers { border-top: 1px solid var(--line); }
 .group-head { margin-bottom: 28px; }
 .group-head .credits-label { margin-bottom: 8px; color: var(--brass); }
 .group-title { font-size: clamp(26px, 2.6vw, 34px); }
